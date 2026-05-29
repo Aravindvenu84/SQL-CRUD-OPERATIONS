@@ -157,9 +157,9 @@ Displays all records stored in the `students` table.
 
 # Screenshot Placeholder — READ Operation
 
-```text
-[ ADD SCREENSHOT OF SELECT QUERY RESULT HERE ]
-```
+
+<img width="796" height="262" alt="Screenshot from 2026-05-29 12-35-02" src="https://github.com/user-attachments/assets/ce40dd5d-18a4-4a26-911f-ce3dad8acd19" />
+
 
 ---
 
