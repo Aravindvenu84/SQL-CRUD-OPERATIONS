@@ -220,26 +220,6 @@ The record containing `Anjali` is removed from the table.
 
 ---
 
-# Display Final Table Data
-
-## SQL Query
-
-```sql
-SELECT * FROM students;
-```
-
-## Expected Result
-
-Displays the remaining records after all CRUD operations.
-
----
-
-# Screenshot Placeholder — Final Table
-
-```text
-[ ADD FINAL TABLE SCREENSHOT HERE ]
-```
-
 ---
 
 # CRUD Query Summary
