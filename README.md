@@ -213,9 +213,10 @@ The record containing `Anjali` is removed from the table.
 
 # Screenshot Placeholder — DELETE Operation
 
-```text
-[ ADD SCREENSHOT OF DELETE QUERY RESULT HERE ]
-```
+
+<img width="796" height="288" alt="Screenshot from 2026-05-29 12-38-02" src="https://github.com/user-attachments/assets/66cfe80c-e880-4b91-b999-47a4e956938d" />
+
+
 
 ---
 
