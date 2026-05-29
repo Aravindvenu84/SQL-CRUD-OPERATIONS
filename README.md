@@ -185,9 +185,10 @@ The course of Rahul is updated to `Machine Learning`.
 
 # Screenshot Placeholder — UPDATE Operation
 
-```text
-[ ADD SCREENSHOT OF UPDATE QUERY RESULT HERE ]
-```
+
+<img width="795" height="334" alt="Screenshot from 2026-05-29 12-36-48" src="https://github.com/user-attachments/assets/91305277-5ea1-466d-87e0-0325ca459d2b" />
+
+
 
 ---
 
