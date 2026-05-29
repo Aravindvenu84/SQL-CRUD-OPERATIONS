@@ -130,10 +130,10 @@ A new row is added to the `students` table.
 
 # Screenshot Placeholder — CREATE Operation
 
-```text
+
  <img width="816" height="503" alt="Screenshot from 2026-05-29 12-31-40" src="https://github.com/user-attachments/assets/61ee2c03-7853-4660-9562-52e4b244cf2e" />
  
-```
+
 
 ---
 
